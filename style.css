@@ -135,20 +135,19 @@ header .navbar {
 /* Hero section styling */
 .hero-section {
   min-height: 100vh;
-  background: var(--primary-color);
+  background: var(--light-pink-color);
 }
 
 .hero-section .section-content {
   display: flex;
   align-items: center;
   min-height: 100vh;
-  color: var(--white-color);
   justify-content: space-between;
 }
 
 .hero-section .hero-details .title {
   font-size: var(--font-size-xxl);
-  color: var(--secondary-color);
+  color: var(--primary-color);
   font-family:"Roboto Slab";
 }
 
